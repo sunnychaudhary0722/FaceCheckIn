@@ -2,6 +2,9 @@
 
 This project implements a Face Recognition System using OpenCV to automatically identify individuals and mark their attendance. The system captures facial images, processes them in real-time, and logs the recognized individuals' attendance in a CSV file for record-keeping.
 
+![Screenshot (7)](https://github.com/user-attachments/assets/5b6b42b9-a01d-4b9e-9f82-8e9ad1b926a5)
+
+
 # Features:- 
 Real-Time Face Detection: Identifies and recognizes faces using OpenCV’s facial recognition algorithms.
 Automatic Attendance Logging: Records attendance by logging recognized faces into a CSV file for easy management and tracking.
